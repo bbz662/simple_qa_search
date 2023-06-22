@@ -1,5 +1,10 @@
 # simple_qu_search
 
+## description
+This tool is like an easy QA vector search using SQLite's VSS Extention.
+
+## steps
+
 1. read ./init/README.md
 2. openai api key as AWS SSM Secret Param
 3. replace YOUR_SSM_OPENAI_API_KEY_NAME
